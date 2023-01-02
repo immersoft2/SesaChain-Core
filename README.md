@@ -46,7 +46,6 @@ Dev@SesaChain.com
 
 
 ## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of HyperOn for free, and there is no charging scenario.
+- All users and developers can participate in the current mainnet and testnet
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- HyperOn announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
 - Do not misread the official website (SesaChain.com), and be cautious with private key phishing.
