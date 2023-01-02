@@ -14,13 +14,15 @@ Average block interval: 3s
 www.SesaChain.com
 
 #### Chain IDs
-SesaChain Mainnet : 32500
-Gables Testnet 32599
+Mainnet : 32500
+
+Testnet 32599
 
 #### Blockchain Explorer
 
-Mainnet : https://www.sesascan.com
-Gables Testnet :https://testnet.sesascan.om
+Mainnet : https://www.sesascan.com .
+
+Testnet :https://testnet.sesascan.com
 
 #### Test Coin Faucet
 
