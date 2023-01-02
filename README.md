@@ -1,6 +1,6 @@
-# HyperonChain-Blockchain
+# SesaChain-Blockchain
 go-ethereum fork
 
-Introduction to HyperonChain
+Introduction to SesaChain
 
-HyperonChain (HPN) is a truely decentralized, high-efficiency and energy saving public blockchain.
+SesaChain (SesaChain.io) is a truely decentralized, high-efficiency and energy saving public blockchain.
