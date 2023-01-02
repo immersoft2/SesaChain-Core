@@ -6,7 +6,9 @@ SesaChain (SESA ) is a decentralized, high-efficiency and energy-saving public c
 SesaChain is Layer 1 , EVM Based Blockchain built on Geth and Dithereum/Hyperon Chain Fork.
 
 
-### Participate in Test Environment of HyperOn
+### SesaChain Technicals
+TPS: 5000+
+Average block interval: 3s
 
 #### Official Website
 www.SesaChain.com
