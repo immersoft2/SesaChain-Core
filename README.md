@@ -20,7 +20,7 @@ Gables Testnet 32599
 #### Blockchain Explorer
 
 Mainnet : https://www.sesascan.com
-Gables Testnet :https://testnet.sesascna.com 
+Gables Testnet :https://testnet.sesascan.om
 
 #### Test Coin Faucet
 
